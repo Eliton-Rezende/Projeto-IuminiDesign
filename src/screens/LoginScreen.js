@@ -44,8 +44,7 @@ export default function LoginScreen({ navigation }) {
         autoCapitalize="none"
         autoCompleteType="email"
         textContentType="emailAddress"
-        keyboardType="email-address"
-        right={<TextInput.Icon name="eye" />}
+        keyboardType="email-address" 
       />
       <TextInput
         label="Senha"
