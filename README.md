@@ -37,7 +37,7 @@ yarn install
 ![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
 ![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
+![home](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/home.png)
 
 ## Support
 

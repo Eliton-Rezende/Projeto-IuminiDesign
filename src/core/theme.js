@@ -8,5 +8,8 @@ export const theme = {
     primary: '#ecd633',
     secondary: '#c92727',
     error: '#f13a59',
+    surface:"#fff",
+    colorTextLogo:"#FF7A00",
+    ColorBackgroundWhite:"#FFB800"
   },
 }
