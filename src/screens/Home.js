@@ -10,9 +10,6 @@ import SearchBarHome from '../components/SearchBarHome'
 import ImageHome from '../components/ImageHome'
 import Data from '../data/data'
 
-
-
-
 export default function Home({ navigation }) {
   return (
     <BackgroundHome>
