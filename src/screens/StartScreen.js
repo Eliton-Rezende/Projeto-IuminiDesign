@@ -11,7 +11,7 @@ export default function StartScreen({ navigation }) {
       <Logo />
       <Header>1000 Grau App</Header>
       <Paragraph>
-        O App com as melhores opções de compra.
+        O App com asdd3 melhores opções de compra.
       </Paragraph>
       <Button
         mode="contained"
