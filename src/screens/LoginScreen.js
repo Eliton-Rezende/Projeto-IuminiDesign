@@ -32,7 +32,7 @@ export default function LoginScreen({ navigation }) {
   return (
     <Background>
       <BackButton goBack={navigation.goBack} />
-      <Logo />
+
       <Header>Bem Vindo ao App 1000 Graus Veículos</Header>
       <TextInput
         label="Email"

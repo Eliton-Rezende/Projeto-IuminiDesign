@@ -8,6 +8,9 @@ import Button from '../components/Button'
 import ShoppingCart from '../components/ShoppingCart'
 import SearchBarHome from '../components/SearchBarHome'
 import ImageHome from '../components/ImageHome'
+import Data from '../data/data'
+
+
 
 
 export default function Home({ navigation }) {
