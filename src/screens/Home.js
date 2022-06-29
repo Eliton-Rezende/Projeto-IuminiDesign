@@ -15,7 +15,7 @@ export default function Home({ navigation }) {
     <BackgroundHome>
         <Header />
         <ShoppingCart />
-        <SearchBarHome />
+        <SearchBarHome  />
         <ImageHome />
       <Paragraph>
 
